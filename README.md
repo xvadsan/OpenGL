@@ -1,5 +1,5 @@
-# Open Gl
-Open GL example demo
+# OpenGL
+OpenGL example demo
 
 - 3D cube
 - octagon with inner octagon hole
