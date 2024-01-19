@@ -1,4 +1,4 @@
-# openGl
+# Open Gl
 Open GL example demo
 
 - 3D cube
